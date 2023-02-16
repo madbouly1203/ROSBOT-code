@@ -1,0 +1,8 @@
+prefix=/data/ROSBOT-code/ros_workspace/install
+
+Name: navigation_tuts
+Description: Description of navigation_tuts
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
