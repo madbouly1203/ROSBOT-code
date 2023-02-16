@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /data/ros_workspace/devel/setup.sh
+    local-name: /data/ROSBOT-code/ros_workspace/devel/setup.sh

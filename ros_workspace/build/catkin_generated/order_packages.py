@@ -1,5 +1,5 @@
 # generated from catkin/cmake/template/order_packages.context.py.in
-source_root_dir = '/data/ros_workspace/src'
+source_root_dir = '/data/ROSBOT-code/ros_workspace/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/opt/ros/noetic'.split(';') if '/opt/ros/noetic' != '' else []
+underlay_workspaces = '/data/ros_workspace/devel;/opt/ros/noetic'.split(';') if '/data/ros_workspace/devel;/opt/ros/noetic' != '' else []

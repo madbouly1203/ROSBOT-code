@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "roscpp".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "tutorial_pkg"
-PROJECT_SPACE_DIR = "/data/ros_workspace/devel"
+PROJECT_SPACE_DIR = "/data/ROSBOT-code/ros_workspace/devel"
 PROJECT_VERSION = "0.0.0"

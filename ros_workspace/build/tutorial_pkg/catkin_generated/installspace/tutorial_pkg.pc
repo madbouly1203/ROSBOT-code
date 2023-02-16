@@ -1,4 +1,4 @@
-prefix=/data/ros_workspace/install
+prefix=/data/ROSBOT-code/ros_workspace/install
 
 Name: tutorial_pkg
 Description: Description of tutorial_pkg
